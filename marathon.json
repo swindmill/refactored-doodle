@@ -2,7 +2,7 @@
   "id": "/nginx-swindmill",
   "cpus": 2,
   "mem": 512,
-  "instances": 1,
+  "instances": 30,
   "container": {
     "docker": {
       "image": "swindmill/mesos:latest",
